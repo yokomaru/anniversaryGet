@@ -1,2 +1,2 @@
 # anniversaryGet
-記念日お知らせBOT
+記念日お知らせSlackBOT
